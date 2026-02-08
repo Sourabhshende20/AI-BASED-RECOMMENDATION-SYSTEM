@@ -75,3 +75,7 @@ Content platforms (blogs, news sites) proposing relevant articles to increase us
 Educational portals recommending courses or learning paths according to student interests and performance.
 
 Any system that needs personalization to improve user experience and retention.
+
+# Output:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/07928ec3-c0c7-4023-8a3f-fc745bd163ed" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/dacc4084-35ca-4a4e-ae6f-85306411b356" />
