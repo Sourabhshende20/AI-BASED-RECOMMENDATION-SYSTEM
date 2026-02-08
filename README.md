@@ -56,7 +56,7 @@ models/ – Classes such as User, Item, and Rating.
 
 data/ – Sample datasets used for testing.
 
-How to Run
+# How to Run
 Open the repository in IntelliJ IDEA and ensure Java is properly configured.
 
 Add any required libraries (like Apache Mahout) using Maven, Gradle, or manual JARs.
@@ -65,10 +65,9 @@ Place sample data files into the expected data directory or configure paths in t
 
 Run Main to generate recommendations for specific users and inspect the output.
 
-Real-World Applications
+# Real-World Applications
 E-commerce platforms suggesting products based on previous purchases and ratings.
 ​
-
 Streaming services recommending movies, series, or songs tailored to each user’s taste.
 
 Content platforms (blogs, news sites) proposing relevant articles to increase user engagement.
