@@ -1,12 +1,18 @@
-AI-Based Recommendation System
-Company name: CODTECH IT SOLUTIONS
-Name: Shende Sourabh Gopal
-Intern ID: CTIS3927
-Domain: Java Programming
-Duration: 4 Weeks
-Mentor: Neela Santhosh Kumar
+# AI-Based Recommendation System
 
-Project Overview
+*Company name*: CODTECH IT SOLUTIONS
+
+*Name*: Shende Sourabh Gopal
+
+*Intern ID*: CTIS3927
+
+*Domain*: Java Programming
+
+*Duration*: 4 Weeks
+
+*Mentor*: Neela Santhosh Kumar
+
+# Project Overview
 This project is an AI-based recommendation system built using Java.
 ​
 The system suggests products or content to users based on their preferences and historical interactions, making use of recommendation algorithms.
@@ -14,7 +20,7 @@ It can be implemented with libraries such as Apache Mahout or custom logic to de
 ​
 The goal is to understand how recommendation engines work conceptually and how they can be integrated into Java applications with sample datasets.
 
-Features
+# Features
 Representation of users, items (products or content), and their interactions (ratings, views, clicks, or purchases).
 
 Loading of sample data from files or in-memory structures to simulate user-item matrices.
@@ -25,7 +31,7 @@ Configurable parameters such as number of recommendations, similarity measures, 
 
 Clear console output or logs that show which items are recommended and why, helping in understanding the recommendation logic.
 
-Tools and Technologies Used
+# Tools and Technologies Used
 Programming language: Java.
 
 Libraries (possible options):
@@ -39,7 +45,7 @@ Data storage: CSV or text files for sample user-item data.
 
 Editor/IDE: IntelliJ IDEA for coding, running, and testing the recommendation logic.
 
-Project Structure (Example)
+# Project Structure (Example)
 src/
 
 Main.java – Entry point to run test scenarios and display recommendations.
